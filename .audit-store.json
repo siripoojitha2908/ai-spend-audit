@@ -1,0 +1,107 @@
+{
+  "7f2df37b-197b-41b3-95e4-fdff104b365b": {
+    "id": "7f2df37b-197b-41b3-95e4-fdff104b365b",
+    "tools": [
+      {
+        "tool": "Cursor",
+        "plan": "Team",
+        "monthlySpend": 120,
+        "seats": 5,
+        "teamSize": 12,
+        "useCase": "coding",
+        "id": "0087cc0f-b006-481a-95be-aa41b0d5e967"
+      }
+    ],
+    "recommendations": [
+      {
+        "toolId": "0087cc0f-b006-481a-95be-aa41b0d5e967",
+        "toolName": "Cursor",
+        "plan": "Team",
+        "currentSpend": 120,
+        "recommendedSpend": 100,
+        "monthlySavings": 20,
+        "annualSavings": 240,
+        "reason": "Your team is likely overpaying for Team. Switching to Hobby should reduce seat costs without cutting access.",
+        "confidence": 0.16666666666666666,
+        "confidenceLabel": "Low",
+        "alternative": null
+      }
+    ],
+    "totalMonthlySavings": 20,
+    "totalAnnualSavings": 240,
+    "confidence": 0.2,
+    "summary": "Your audit identified $20 in monthly savings and $240 annually. Review plan fit for your current AI tools, reduce expensive enterprise seats on small teams, and consider API-based alternatives for high-volume workflows.",
+    "teamSize": 12,
+    "createdAt": "2026-05-25T16:07:30.970Z"
+  },
+  "96eca61b-05e2-44c3-9376-3c78a32b3e4f": {
+    "id": "96eca61b-05e2-44c3-9376-3c78a32b3e4f",
+    "tools": [
+      {
+        "tool": "Cursor",
+        "plan": "Team",
+        "monthlySpend": 120,
+        "seats": 5,
+        "teamSize": 12,
+        "useCase": "coding",
+        "id": "b7d30efb-63ac-4947-aa65-83ecfcc84f10"
+      }
+    ],
+    "recommendations": [
+      {
+        "toolId": "b7d30efb-63ac-4947-aa65-83ecfcc84f10",
+        "toolName": "Cursor",
+        "plan": "Team",
+        "currentSpend": 120,
+        "recommendedSpend": 100,
+        "monthlySavings": 20,
+        "annualSavings": 240,
+        "reason": "Your team is likely overpaying for Team. Switching to Hobby should reduce seat costs without cutting access.",
+        "confidence": 0.16666666666666666,
+        "confidenceLabel": "Low",
+        "alternative": null
+      }
+    ],
+    "totalMonthlySavings": 20,
+    "totalAnnualSavings": 240,
+    "confidence": 0.2,
+    "summary": "Your audit identified $20 in monthly savings and $240 annually. Review plan fit for your current AI tools, reduce expensive enterprise seats on small teams, and consider API-based alternatives for high-volume workflows.",
+    "teamSize": 12,
+    "createdAt": "2026-05-25T16:08:08.678Z"
+  },
+  "4a55b572-5300-4c2e-998c-dd1f029128d1": {
+    "id": "4a55b572-5300-4c2e-998c-dd1f029128d1",
+    "tools": [
+      {
+        "tool": "Cursor",
+        "plan": "Team",
+        "monthlySpend": 120,
+        "seats": 5,
+        "teamSize": 12,
+        "useCase": "coding",
+        "id": "e8936f20-39d2-4a9a-b6ca-938aa4b854f2"
+      }
+    ],
+    "recommendations": [
+      {
+        "toolId": "e8936f20-39d2-4a9a-b6ca-938aa4b854f2",
+        "toolName": "Cursor",
+        "plan": "Team",
+        "currentSpend": 120,
+        "recommendedSpend": 100,
+        "monthlySavings": 20,
+        "annualSavings": 240,
+        "reason": "Your team is likely overpaying for Team. Switching to Hobby should reduce seat costs without cutting access.",
+        "confidence": 0.16666666666666666,
+        "confidenceLabel": "Low",
+        "alternative": null
+      }
+    ],
+    "totalMonthlySavings": 20,
+    "totalAnnualSavings": 240,
+    "confidence": 0.2,
+    "summary": "Your audit identified $20 in monthly savings and $240 annually. Review plan fit for your current AI tools, reduce expensive enterprise seats on small teams, and consider API-based alternatives for high-volume workflows.",
+    "teamSize": 12,
+    "createdAt": "2026-05-25T16:08:57.656Z"
+  }
+}
