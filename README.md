@@ -13,6 +13,15 @@ AI Spend Audit is a launch-ready B2B SaaS web application for startup founders a
 - LocalStorage form persistence and client-side validation
 - Production-ready GitHub Actions CI
 
+## Tech stack
+Next.js 14 (App Router)
+TypeScript
+Tailwind CSS (glassmorphism UI)
+Supabase (database + storage)
+OpenAI API (summaries)
+Resend (email service)
+Vercel (deployment)
+
 ## Quick Start
 1. Clone the repo.
 2. Copy `.env.example` to `.env.local` and fill in credentials.
@@ -67,3 +76,10 @@ Deploy on Vercel using the repository and set environment variables:
    4. Run repair: `npm run supabase:repair`.
 - **What the repair does:** Creates missing tables/columns, safely adds indexes, and adds FK only when there are no dangling lead references. It never drops existing data.
 - **Verification steps performed automatically:** audit insert, lead insert, and public-audit retrieval. The runner prints a `FINAL_STATUS` JSON with results.
+
+
+
+<img width="666" height="381" alt="Screenshot 2026-05-27 120631" src="https://github.com/user-attachments/assets/dee47516-6cbd-4623-ad93-944e1267268f" />
+<img width="647" height="435" alt="{CA4F70FD-59B8-4278-B543-2B1D1C9E4EF7}" src="https://github.com/user-attachments/assets/af77c127-8440-46ad-ab1c-8f145ae4b9d8" />
+<img width="664" height="365" alt="{54FD3CBC-81CE-4E41-9470-5ED971007D78}" src="https://github.com/user-attachments/assets/975d9818-2d14-4e05-8687-b3fa9d90b163" />
+<img width="765" height="429" alt="{2014D8C6-E96E-4690-8CAE-CD99B77E489A}" src="https://github.com/user-attachments/assets/29f58996-93e5-4985-80ba-f67dae960cf8" />
